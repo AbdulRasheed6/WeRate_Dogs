@@ -1,1 +1,5 @@
 # WeRate_Dogs
+
+We rate dogs analysis is a project that involves data collection process from  tweeter by obtaining various tweets, images and associated metadata such as likes , retweets, user information through the twweeter api. It is followed dy data cleaning process as raw data from tweeter can have various issues ranging from data quality to tidiness issues. The data cleaning process  involves removing duplicates, handling missing data , correcting errors and standardizing format.
+
+Once the data is cleaned the next phase is data exploration which involves the use of visualization and various statiscal analysis to summarize the data's main characteristics , identify trends , patterns and potential outliers. Further analysis is done  by  answering the questions poised before any data cleaning process was carried out , such  as the dog with  the highest reweet , favorite count and so on.
